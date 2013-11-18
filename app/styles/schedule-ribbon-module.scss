@@ -1,0 +1,13 @@
+.schedule-ribbon {
+	border: 4px solid;
+	border-radius: 6px;
+	padding: 8px;
+
+	.schedule-ribbon-column {
+		width: 20%;
+		display: inline-block;
+		border: 4px solid;
+		margin: 4px;
+		padding: 4px;
+	}
+}
